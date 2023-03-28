@@ -3,5 +3,7 @@ public class Day {
         System.out.println("1111111");
         System.out.println("1111111");
         System.out.println("1111111");
+        System.out.println("1111111");
+        System.out.println("1111111");
     }
 }
